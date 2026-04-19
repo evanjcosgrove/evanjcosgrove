@@ -1,7 +1,7 @@
 ### Evan Cosgrove
 
 Building tools for human connection. Translating complexity into simplicity.
-NYC-based. Previously product at Google (Gemini early days).
+NYC-based. Previously ads @ Google during the Bard -> Gemini days.
 
 **Recent technical writing**
 
