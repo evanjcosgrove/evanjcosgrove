@@ -18,8 +18,8 @@ NYC-based · Previously product at Google (Gemini early days)
 
 | Date | Title |
 |---|---|
-| Apr 2026 | [Restoring 1M context in Claude Desktop's Cowork mode](https://evanjcosgrove.github.io/claude-cowork-1m-patch/writeup/) |
+| Apr 2026 | [Restoring 1M context in Claude Cowork](https://evanjcosgrove.github.io/claude-cowork-1m-patch/) | 
 
 ---
 
-[evanjcosgrove.com](https://evanjcosgrove.com) · [@evanjcosgrove](https://x.com/evanjcosgrove) · [LinkedIn](https://linkedin.com/in/evanjcosgrove) · [Mastodon](https://cosocial.ca/@evanjcosgrove)
+[evanjcosgrove.com](https://evanjcosgrove.com) · [@evanjcosgrove](https://www.instagram.com/evanjcosgrove/) · [LinkedIn](https://linkedin.com/in/evanjcosgrove)
