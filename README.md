@@ -1,34 +1,29 @@
-# Evan Cosgrove
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.png">
+  <img alt="Evan Cosgrove | Builder / Operator | Product + GTM. A line moves from customer signals through a shipped system to a proven result." src="./assets/profile-hero-dark.png">
+</picture>
 
-**Forward-Deployed Engineer · NYC** — I embed where the problem is, ship the production code that solves it, and prove it works with evals.
+## I like hard problems with a customer on one side and a codebase on the other.
 
-Brooklyn, NY · evanjcosgrove@gmail.com
-
-**Shipped agents into production?** Mindara, the AI event-planning platform I co-founded with Justin Casso: 1,700+ commits, 250+ DAU, Claude API in production, Django + Expo/React Native on GCP/Terraform.
-
-**Post-sales implementation?** Google: $25M+ incremental growth on a $90M+ Ads portfolio, working hands-on with agency and client engineering teams on API integration and data-flow debugging.
-
-**The pattern I can't turn off:** when a tool I depend on falls short, I build the better version. A 1M-token context regression in Claude Desktop sat open for a month, so I diagnosed and patched it. Every AI coding surface kept forgetting what the others knew, so I built cross-tool memory. My Toast territory needed prospect intelligence that didn't exist, so I built it as a Retail AE — not an engineer.
-
-## What I ship
-
-| Repo | What it proves |
+| | |
 |---|---|
-| [claude-cowork-1m-patch](https://github.com/evanjcosgrove/claude-cowork-1m-patch) | Diagnosed and resolved a month-old open community regression in 48h: Electron .asar byte-patching, integrity-chain rebuild, macOS re-signing |
-| [fde-case-studies](https://github.com/evanjcosgrove/fde-case-studies) | The production work that lives in private repos: Mindara, a legacy-to-Symfony-7 CRM modernization (consulting engagement), the Toast retail prospecting copilot, cross-tool agent memory |
+| **Built** | **[Mindara](https://mindara.io)** · **400 daily active users** · iOS launching soon — nearly 500 on the launch-day waitlist<br>Co-founded with [Justin Casso](https://github.com/jrcasso). Mindara's production agent system powers the web product and upcoming iOS app: grounded venue recommendations, live Resy availability, and user approval before booking — with Claude and Gemini routed on Vertex AI by task weight.<br>Its recursive Maestro harness replays multistep mobile journeys, captures screenshots and motion, and routes the evidence through design, UX, and implementation agents. |
+| **Embedded** | **Brazilian Direct** · consulting engagement<br>Rebuilt the client's legacy PHP sales stack in Symfony 7, integrating Gemini-powered AI calling and email agents for lead management, follow-up, and calendar booking.<br>Analyzed 20+ years of sales and email history with Hume sentiment analysis to redesign the funnel and increase lead-to-sale success by 20%+. |
+| **Scaled** | **Google**<br>Worked directly across customers, agencies, and engineering teams to solve Ads API and data-flow problems, driving **$25M+ in incremental growth** across a **$90M+ portfolio**. |
 
-## Currently building
+## A few things I've shipped
 
-**mirrorloop** — a self-validating dev team for Claude Code: frontend agents check their work against a live iOS simulator, backend agents check the APIs, and an eval harness scores the whole loop.
+**[claude-cowork-1m-patch](https://github.com/evanjcosgrove/claude-cowork-1m-patch)**: resolved a [month-old Claude Desktop regression](https://github.com/anthropics/claude-code/issues/37413) in 48 hours.
 
-**day-one** — an enterprise onboarding copilot: an agent team that reads an API's docs and sandbox, then produces a working, tested integration with a correctness report.
+**[production case studies](https://github.com/evanjcosgrove/fde-case-studies)**: what I built, why I built it that way, and what happened next.
 
-Both land here when they meet their definitions of done.
+---
 
-## Stack
+Brooklyn, NY · [evanjcosgrove.com](https://evanjcosgrove.com) · [LinkedIn](https://www.linkedin.com/in/evanjcosgrove/) · [Mindara](https://mindara.io) · [email](mailto:evanjcosgrove@gmail.com)
 
-Python (Django, FastAPI) · TypeScript (React, React Native, Bun) · LLM systems (Claude/OpenAI/Gemini APIs, MCP, agent teams, eval harnesses, pgvector/ChromaDB) · GCP + Terraform + Docker + GitHub Actions
-
-## Before engineering full-time
-
-Nine years of enterprise experience: Google (Ads API work with agency and client engineering teams), Toast (retail POS, Brooklyn), Remesh ($945K+ enterprise SaaS ARR with McKinsey, BCG, and Accenture), and Jet.com/Walmart eCommerce ($32M P&L). I speak fluent stakeholder.
+```text
+          +---------+
+signal -->|  build  |--> shipped
+          +---------+
+```
