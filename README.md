@@ -1,8 +1,19 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.png">
-  <img alt="Evan Cosgrove | Builder / Operator | Product + GTM. A line moves from customer signals through a shipped system to a proven result." src="./assets/profile-hero-dark.png">
-</picture>
+<pre>
+
+
+
+
+<sub><sub>      .   .  +   .  :   .  .  +   .  :   .   +   .  .  :   .  +   .  :   .  .   :   .  . <mark>|</mark>  <mark>|</mark>       .  :  .  +  +  +  .  :  .  x   .   :    .    :     .     :    .  :  .</sub></sub>&nbsp;
+<sub><sub>      .   :   x   .  :  |  .  +  .  :  .  +   .  :  x   .  +  :  .  |   .  +  .  :  .  . <mark>|</mark>  <mark>|</mark>       .  :  :  .  +  +  +  +  :  .  .   x   .   :    .    :    .    :  .  .</sub></sub>&nbsp;
+<sub><sub>       |   :  .  +  .  :  +   .  :  +  .  .  :  +   .  :  x  .  +  .  :  +  .  :  +  . . <mark>|</mark>  <mark>|</mark>       .  :  +  +  :  +  +  +  +  +  :  .   .    x   .    :    .    .   :  .</sub></sub>&nbsp;
+<sub><sub>      .   :   +   .   x   .   :   .   +   .   :   .   +   <mark>.</mark>  <mark>:</mark>  <mark>.</mark>  <mark>.</mark>  <mark>:</mark>  <mark>+</mark>  <mark>.</mark>  <mark>+</mark>  <mark>.</mark>  <mark>+</mark>  <mark>+</mark><mark>|</mark>  <mark>|</mark>       +  :  +  +  :  +  +  +  +  +  +  :  +  +  :  +  +  : + ++++   <mark>:</mark>  <mark>+</mark> <mark>+</mark><mark>+</mark></sub></sub>&nbsp;
+
+                  embed                          ship                      prove
+
+                                                                                          <sup><sup>@evanjcosgrove</sup></sup>
+
+
+</pre>
 
 ## I turn workflows held together by tabs and optimism into systems people can rely on.
 
@@ -43,9 +54,3 @@ Across a $90M+ Ads portfolio, customer goals, agency implementations, and produc
 ---
 
 Brooklyn, NY · [evanjcosgrove.com](https://evanjcosgrove.com) · [LinkedIn](https://www.linkedin.com/in/evanjcosgrove/) · [Mindara](https://mindara.io) · [email](mailto:evanjcosgrove@gmail.com)
-
-```text
-          +---------+
-signal -->|  build  |--> shipped
-          +---------+
-```
