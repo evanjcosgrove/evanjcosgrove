@@ -4,13 +4,35 @@
   <img alt="Evan Cosgrove | Builder / Operator | Product + GTM. A line moves from customer signals through a shipped system to a proven result." src="./assets/profile-hero-dark.png">
 </picture>
 
-## I like hard problems with a customer on one side and a codebase on the other.
+## I turn workflows held together by tabs and optimism into systems people can rely on.
 
-| | |
-|---|---|
-| **Built** | **[Mindara](https://mindara.io)** · **400 daily active users** · iOS launching soon — nearly 500 on the launch-day waitlist<br>Co-founded with [Justin Casso](https://github.com/jrcasso). Mindara's production agent system powers the web product and upcoming iOS app: grounded venue recommendations, live Resy availability, and user approval before booking — with Claude and Gemini routed on Vertex AI by task weight.<br>Its recursive Maestro harness replays multistep mobile journeys, captures screenshots and motion, and routes the evidence through design, UX, and implementation agents. |
-| **Embedded** | **Brazilian Direct** · consulting engagement<br>Rebuilt the client's legacy PHP sales stack in Symfony 7, integrating Gemini-powered AI calling and email agents for lead management, follow-up, and calendar booking.<br>Analyzed 20+ years of sales and email history with Hume sentiment analysis to redesign the funnel and increase lead-to-sale success by 20%+. |
-| **Scaled** | **Google**<br>Worked directly across customers, agencies, and engineering teams to solve Ads API and data-flow problems, driving **$25M+ in incremental growth** across a **$90M+ portfolio**. |
+### [Mindara](https://mindara.io)
+
+**The plan was everywhere except one place.**
+
+I co-founded Mindara with [Justin Casso](https://github.com/jrcasso) to bring grounded discovery, live Resy availability, user approval, and booking into one working flow. Its production stack uses Claude for heavier reasoning and Gemini for high-volume work through Vertex AI.
+
+I also built a recursive Maestro harness that replays mobile journeys and routes screenshots, motion, and failures through design, UX, and implementation agents.
+
+**400 daily active users. iOS launching soon, with nearly 500 on the launch-day waitlist.**
+
+### Brazilian Direct
+
+**The sales history was there. The next action was not.**
+
+In a consulting engagement, I rebuilt the client's legacy PHP sales stack as a Symfony 7 CRM, bringing lead management, calendar booking, and Gemini-powered calling and email agents into one system.
+
+I analyzed 20+ years of sales and email history with Hume sentiment analysis to redesign follow-up and the lead-to-sale journey.
+
+**20%+ lift in lead-to-sale conversion.**
+
+### Google
+
+**The growth problem lived between the teams.**
+
+Across a $90M+ Ads portfolio, customer goals, agency implementations, and production data flows did not always line up. I traced those gaps with customers, agencies, and engineering, then carried them through to working Ads API fixes.
+
+**$25M+ in incremental growth.**
 
 ## A few things I've shipped
 
