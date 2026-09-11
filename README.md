@@ -17,18 +17,20 @@
 
 <p align="center"><strong>embed</strong> → customer context&ensp;·&ensp;<strong>ship</strong> → production systems&ensp;·&ensp;<strong>prove</strong> → evals &amp; impact</p>
 
+<p align="center">Forward-Deployed Engineer · Brooklyn, NY · <a href="mailto:evanjcosgrove@gmail.com">Get in touch</a></p>
+
 | Agents in production | Post-sales / embedded |
 | --- | --- |
-| **[Mindara](https://mindara.io)**. AI event-planning assistant co-founded with Justin Casso; Gemini on Vertex AI, 400 daily active users, iOS launching soon | **Google**. $25M+ incremental growth on a $90M+ Ads portfolio, working the Ads API with client engineering teams |
-| **Maestro harness**. Recursive mobile-journey replay critiqued by design, UX, and implementation agents | **[Brazilian Direct](https://github.com/evanjcosgrove/fde-case-studies/blob/main/bd-crm-modernization.md)**. Consulting inside a client's Symfony 7 CRM rebuild: QuickBooks sync, Gemini email triage, quote-to-order |
+| **[Mindara](https://mindara.io)**. AI event-planning assistant co-founded with Justin Casso; Gemini on Vertex AI in production; iOS app in development | **Google**. $25M+ incremental growth on a $90M+ Ads portfolio, working the Ads API with client engineering teams |
+| **Maestro harness**. Development tooling: a recursive crawler and deterministic journey flows, with captures reviewed by one vision critic | **[Brazilian Direct](https://github.com/evanjcosgrove/fde-case-studies/blob/main/bd-crm-modernization.md)**. Consulting inside a client's Symfony 7 CRM rebuild: QuickBooks sync, Gemini email triage, quote-to-order |
 
 ### Mindara
 
 **The plan was everywhere except one place.**
 
-I co-founded [Mindara](https://mindara.io) with [Justin Casso](https://github.com/jrcasso): an AI event-planning assistant that brings grounded discovery, live Resy availability, user approval, and booking into one working flow, with Gemini on Vertex AI doing the model work. Alongside it I built a recursive Maestro harness that replays mobile journeys and routes screenshots, motion, and failures through design, UX, and implementation agents.
+I co-founded [Mindara](https://mindara.io) with [Justin Casso](https://github.com/jrcasso): an AI event-planning assistant that brings grounded discovery, live Resy availability, user approval, and booking into one working flow, with Gemini on Vertex AI doing the model work. Alongside Mindara I built a Maestro harness I use during development: a recursive crawler and deterministic journey flows capture mobile screenshots and motion, and one vision critic reviews the captures.
 
-**400 daily active users. iOS launching soon.**
+**400 daily active users (August 2026). iOS app in development.**
 
 [Full case study →](https://github.com/evanjcosgrove/fde-case-studies/blob/main/mindara.md)
 
@@ -36,7 +38,7 @@ I co-founded [Mindara](https://mindara.io) with [Justin Casso](https://github.co
 
 **The sales history was there. The next action was not.**
 
-A consulting engagement inside a family flooring business's CRM rebuild. The client's developer owns the codebase; I built the integration-heavy pieces on their API-first Symfony 7 platform: QuickBooks Online invoice sync, Gemini email triage behind a human review queue, and the quote-to-order flow. Nothing auto-sends.
+A consulting engagement inside a family flooring business's CRM rebuild. The client's developer owns the codebase and holds copyright; I built the integration-heavy pieces on their API-first Symfony 7 platform: QuickBooks Online invoice sync, Gemini email triage behind a human review queue, and the quote-to-order flow. Nothing auto-sends.
 
 **154 commits, about 13% of the history. The flows I built shipped in the client's MVP.**
 
@@ -48,7 +50,7 @@ A consulting engagement inside a family flooring business's CRM rebuild. The cli
 
 Across a $90M+ Ads portfolio, customer goals, agency implementations, and production data flows did not always line up. I traced those gaps with customers, agencies, and engineering, then carried them through to working Ads API fixes.
 
-**$25M+ in incremental growth.**
+**$25M+ in incremental growth on a $90M+ Ads portfolio.**
 
 ## A few things I've shipped
 
@@ -56,7 +58,7 @@ Across a $90M+ Ads portfolio, customer goals, agency implementations, and produc
 - **[retail-prospector](https://github.com/evanjcosgrove/fde-case-studies/blob/main/toast-retail-prospector-origin.md)**: the multi-agent Gemini prospecting tool I built as a Retail AE at Toast, not as an engineer, and that my Brooklyn team adopted.
 - **[fde-case-studies](https://github.com/evanjcosgrove/fde-case-studies)**: what I built, why I built it that way, and what happened next.
 
-Currently building mirrorloop and day-one.
+In development: mirrorloop and day-one.
 
 ---
 
