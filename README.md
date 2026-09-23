@@ -19,7 +19,7 @@
 
 Forward-Deployed Engineer · New York · [Say hello](mailto:evanjcosgrove@gmail.com)
 
-I'm Evan Cosgrove. I'm interested in how people think, understand one other, and building products that support productivity and in-person human connection. While my background in international politics, Arabic, and philosophy may athppear anthoginal to my current work, it has become my greatest asset in approaching engineering with curiosity and intentionality.
+I'm Evan Cosgrove. I'm interested in how people think and understand one another, and in building products that support productivity and in-person human connection. While my background in international politics, Arabic, and philosophy may appear orthogonal to my current work, it has become my greatest asset in approaching engineering with curiosity and intentionality.
 
 ### Mindara
 
@@ -31,7 +31,7 @@ Mindara connects recommendations, live restaurant availability through Resy, and
 
 At Google, I worked with advertisers, agencies, and engineering teams on Ads implementations and production data issues, helping drive $25M+ in incremental growth on a $90M+ Ads portfolio. 
 
-Earlier in SF, I was responsible for a $32M P&L at Jet.com and Walmart and managed enterprise clients including McKinsey, BCG, and Accenture at a Remesh during their Series-A phase.
+Earlier in SF, I was responsible for a $32M P&L at Jet.com and Walmart and managed enterprise clients including McKinsey, BCG, and Accenture at Remesh during their Series-A phase.
 
 I've also consulted alongside developer teams on a CRM rebuild. I built integrations connecting accepted quotes, orders, and QuickBooks invoices, along with Gemini-assisted email triage that prepares replies for staff to review - [More Info](https://github.com/evanjcosgrove/fde-case-studies/blob/main/bd-crm-modernization.md).
 
